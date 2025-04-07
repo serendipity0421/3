@@ -23,7 +23,7 @@ body {
     height: 40px;
     /* 暫時代替圖片，你可以用 background-image 替換 */
     background-color: #666;
-    /* background-image: url('dino.png'); */ /* 加上這行並提供圖片 */
+    background-image: url('dino.png'); /* 加上這行並提供圖片 */
     /* background-size: cover; */
     position: absolute;
     bottom: 20px; /* 初始位置在地面上 */
